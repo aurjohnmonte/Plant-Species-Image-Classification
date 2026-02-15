@@ -4,6 +4,9 @@
 
 ---
 
+<p>This is the link in G-drive for my model.</p>
+<a href="https://drive.google.com/drive/folders/1-LKnP17Iy454UdJpHO6-mjUqlewxKzl_?usp=sharing"></a>
+
 ## A. Project Overview
 
 This project focuses on building an **image classification model** capable of identifying **20 different plant species** using images.  
@@ -187,6 +190,10 @@ Each class contains **250 images** for training.
 
 ## C. Model Training Details
 
+<p align="center">
+  <img src="images/12.jpg" width="300">
+</p>
+
 | Parameter | Value |
 |--------|------|
 | Epochs | 50 |
@@ -198,6 +205,8 @@ Each class contains **250 images** for training.
 
 ---
 
+
+
 ## D. Model Evaluation
 
 The model was evaluated using the following metrics:
@@ -205,7 +214,9 @@ The model was evaluated using the following metrics:
 - **Accuracy per Class**
 - **Overall Model Accuracy**
 
-(Screenshots are included in the repository.)
+<p align="center">
+  <img src="images/1.jpg" width="300">
+</p>
 
 ---
 
@@ -213,6 +224,34 @@ The model was evaluated using the following metrics:
 
 Below are **10 testing screenshots** taken from the **Teachable Machine Preview** section to demonstrate real-time classification performance.
 
-(Screenshots are included in the repository.)
-
+<p align="center">
+  <img src="images/2.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/3.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/4.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/5.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/6.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/7.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/8.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/9.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/10.jpg" width="300">
+</p>
+<p align="center">
+  <img src="images/11.jpg" width="300">
+</p>
 ---

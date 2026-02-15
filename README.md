@@ -255,3 +255,37 @@ Below are **10 testing screenshots** taken from the **Teachable Machine Preview*
   <img src="images/11.jpg" width="300">
 </p>
 ---
+
+## Reflection Questions
+## F. Discussion and Analysis
+
+### 1. How did the number of images per class affect your model’s accuracy?
+
+Having **250 images per class** significantly improved the model’s accuracy and stability. Because each class had the same number of images, the dataset was **well-balanced**, which helped prevent the model from favoring certain plant species over others. The relatively large number of images per class allowed the model to learn diverse visual features such as leaf shape, color, and texture, resulting in more reliable predictions and better generalization to unseen images.
+
+---
+
+### 2. Which plant species were most commonly misclassified and why?
+
+Plant species with **similar visual characteristics** were more commonly misclassified. For example, plants with similar leaf shapes or colors, such as **Snake Plant and Spider Plant**, or flowering plants with comparable petal structures like **Tulips and Crocus**, occasionally confused the model. These misclassifications occurred mainly due to overlapping visual features and similarities in lighting, background, or camera angles across images.
+
+---
+
+### 3. How did changing the epochs, batch size, or learning rate affect the training results?
+
+Increasing the number of **epochs** improved accuracy up to a certain point, after which the gains became minimal and risked overfitting. A batch size of **32** provided a good balance between training speed and model stability. Since **Teachable Machine automatically optimizes the learning rate**, the training process remained stable without manual tuning. Overall, moderate epoch values and a standard batch size resulted in the most consistent performance.
+
+---
+
+### 4. What challenges did you encounter during dataset collection and labeling?
+
+One of the main challenges was ensuring **image variety** within each class, including differences in lighting, background, and viewing angles. Another challenge was avoiding **duplicate or near-identical images**, which could negatively affect model generalization. Proper labeling was also important, as even small labeling errors could confuse the model during training.
+
+---
+
+### 5. If you were to improve your model, what specific changes would you make and why?
+
+To further improve the model, additional images would be collected for visually similar plant species to increase feature diversity. Applying more **data augmentation techniques** such as rotation, zoom, and brightness variation would also help improve generalization. Additionally, exporting the model for **custom training and fine-tuning** using a machine learning framework could allow deeper optimization and potentially improve overall accuracy.
+
+---
+

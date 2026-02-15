@@ -24,6 +24,9 @@ Each class contains **250 images** for training.
 ---
 
 ### 1. Areca Palm
+<p align="center">
+  <img src="images/frame_000184.jpg" width="300">
+</p>
 - **Common Name:** Areca Palm  
 - **Scientific Name:** *Dypsis lutescens*  
 - **Description:** A tropical palm with feathery, arching fronds commonly used as an indoor ornamental plant.

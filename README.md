@@ -5,7 +5,7 @@
 ---
 
 <p>This is the link in G-drive for my model.</p>
-<a href="https://drive.google.com/drive/folders/1-LKnP17Iy454UdJpHO6-mjUqlewxKzl_?usp=sharing"></a>
+https://drive.google.com/drive/folders/1-LKnP17Iy454UdJpHO6-mjUqlewxKzl_?usp=sharing
 
 ## A. Project Overview
 
